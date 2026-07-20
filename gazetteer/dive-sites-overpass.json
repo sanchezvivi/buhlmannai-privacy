@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Airplane Wreck (Sunset Waters)",
+    "lat": 12.266944,
+    "lng": -69.1276576,
+    "type": "wreck"
+  },
+  {
+    "name": "Boka Sami",
+    "lat": 12.1394983,
+    "lng": -68.9972716,
+    "type": "unknown"
+  },
+  {
+    "name": "Daaibooi Baai",
+    "lat": 12.2119209,
+    "lng": -69.0855754,
+    "type": "unknown"
+  },
+  {
+    "name": "Grote Knip",
+    "lat": 12.3514337,
+    "lng": -69.153211,
+    "type": "unknown"
+  },
+  {
+    "name": "Ilha do Arvoredo",
+    "lat": -27.2968146,
+    "lng": -48.3618812,
+    "type": "unknown"
+  },
+  {
+    "name": "Kleine Knip",
+    "lat": 12.341558,
+    "lng": -69.1538671,
+    "type": "unknown"
+  },
+  {
+    "name": "Lago Esmeralda",
+    "lat": -23.0541275,
+    "lng": -47.848205,
+    "type": "unknown",
+    "depth_m": 70
+  },
+  {
+    "name": "Laje de Santos",
+    "lat": -24.32025,
+    "lng": -46.1818623,
+    "type": "unknown"
+  },
+  {
+    "name": "Marie Pampoen",
+    "lat": 12.0897355,
+    "lng": -68.9068508,
+    "type": "unknown"
+  },
+  {
+    "name": "Mushroom Forest",
+    "lat": 12.3018115,
+    "lng": -69.1543365,
+    "type": "reef"
+  },
+  {
+    "name": "Naufrágio do Califórnia",
+    "lat": -23.159607,
+    "lng": -44.3499155,
+    "type": "wreck",
+    "depth_m": 15
+  },
+  {
+    "name": "Picãozinho",
+    "lat": -7.1176444,
+    "lng": -34.8078109,
+    "type": "reef"
+  },
+  {
+    "name": "Playa Kalki",
+    "lat": 12.3739947,
+    "lng": -69.1585735,
+    "type": "reef"
+  },
+  {
+    "name": "Playa Lagun",
+    "lat": 12.3181345,
+    "lng": -69.1508771,
+    "type": "unknown"
+  },
+  {
+    "name": "Playa Largu",
+    "lat": 12.2353033,
+    "lng": -69.098515,
+    "type": "unknown"
+  },
+  {
+    "name": "Playa Manzalina",
+    "lat": 12.2454216,
+    "lng": -69.1055983,
+    "type": "unknown"
+  },
+  {
+    "name": "Praia Azeda",
+    "lat": -22.7421538,
+    "lng": -41.8818191,
+    "type": "unknown"
+  },
+  {
+    "name": "Praia João Fernandes",
+    "lat": -22.7416839,
+    "lng": -41.8758809,
+    "type": "unknown"
+  },
+  {
+    "name": "Rancho El Sobrino",
+    "lat": 12.3631794,
+    "lng": -69.1552439,
+    "type": "unknown"
+  },
+  {
+    "name": "Rif Sint Marie",
+    "lat": 12.1985784,
+    "lng": -69.079446,
+    "type": "unknown"
+  },
+  {
+    "name": "Rochedos dos Calhaus",
+    "lat": -24.3299188,
+    "lng": -46.162512,
+    "type": "unknown"
+  },
+  {
+    "name": "Ship Wreck Tugboat",
+    "lat": 12.0679476,
+    "lng": -68.8619504,
+    "type": "wreck"
+  },
+  {
+    "name": "Ship wreck",
+    "lat": 12.0762578,
+    "lng": -68.8805685,
+    "type": "wreck"
+  },
+  {
+    "name": "Snake Bay",
+    "lat": 12.1384966,
+    "lng": -68.99653,
+    "type": "unknown"
+  },
+  {
+    "name": "Superior Producer",
+    "lat": 12.1042457,
+    "lng": -68.9466568,
+    "type": "wreck",
+    "depth_m": 30
+  },
+  {
+    "name": "The Valley",
+    "lat": 12.2185168,
+    "lng": -69.0862994,
+    "type": "unknown"
+  },
+  {
+    "name": "Victory B8",
+    "lat": -20.6853434,
+    "lng": -40.3909733,
+    "type": "wreck"
+  }
+]
