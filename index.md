@@ -1,6 +1,6 @@
 # Buhlmann AI — Privacy Policy
 
-Last updated: 2026-07-07
+Last updated: 2026-11-07
 
 ---
 
@@ -58,13 +58,17 @@ be included in a standard iCloud device backup.
 
 ## 4. Data that leaves your device
 
-**One type of data leaves your device**: location information for your planned
+**Two kinds of location data can leave your device.**
+
+**Dive-site weather and elevation.** Location information for your planned
 dive site is sent to [Open-Meteo](https://open-meteo.com) to fetch a marine
 weather forecast and the site's terrain elevation (used to set the altitude
 of your dive plan). Specifically:
 
-- If you select a dive site by coordinates, the **latitude and longitude** you
-  entered are sent.
+- If you select a dive site by coordinates, the **latitude and longitude** are
+  sent **rounded to roughly 1 km precision** (two decimal places) — the app
+  coarsens the coordinates before every request, so your exact dive-site
+  position is never transmitted.
 - If you search for a location by name, the **place name you type** is sent to
   Open-Meteo's geocoding endpoint to resolve it to coordinates, after which the
   resolved coordinates are used for the weather request.
@@ -79,8 +83,22 @@ tracking, and is not shared with any other party. Under Apple's App Privacy
 labeling, this is disclosed as Location data used for App Functionality,
 not linked to you.
 
+**Suggesting your home location.** Only if you tap "suggest my home location"
+in Settings, the app reads your device's current position and asks Apple's
+geocoding service (part of iOS) to turn it into a city and country name. Apple
+receives that position for this lookup under
+[Apple's privacy policy](https://www.apple.com/legal/privacy/); the app sends
+nothing else with it, and the position is not sent to anyone else.
+
 No health data, dive data, or identifiers leave your device to any server we
 or a third party operate.
+
+**Beta testing through TestFlight.** If you test a pre-release version through
+Apple's TestFlight, Apple may share with the developer the crash reports, usage
+statistics and feedback (including screenshots and comments) that you choose
+to send through TestFlight, together with the name and email address of your
+TestFlight invitation. This is handled by Apple under its TestFlight terms; the
+app itself contains no crash-reporting or analytics code.
 
 **Data you choose to share yourself.** The app lets you export a dive log or
 gear-sync file (for example, to send to another app or device via the iOS
