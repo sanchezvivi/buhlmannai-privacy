@@ -1,16 +1,20 @@
 [
   {
+    "site_key": "brazil-mg-furnas-cidade-antiga-de-sao-jose",
     "name": "Cidade Antiga de São José",
     "lat": -20.68806,
     "lng": -46.22809,
     "type": "unknown",
-    "waterType": "fresh"
+    "waterType": "fresh",
+    "coord_source": "exact"
   },
   {
+    "site_key": "brazil-mg-furnas-paredao-do-galo",
     "name": "Paredão do Galo",
     "lat": -20.74923,
     "lng": -46.24488,
     "type": "unknown",
-    "waterType": "fresh"
+    "waterType": "fresh",
+    "coord_source": "exact"
   }
 ]

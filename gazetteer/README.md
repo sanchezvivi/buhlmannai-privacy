@@ -9,3 +9,14 @@ in the Buhlmann AI app.
 ## dive-sites-contrib.json
 First-party contributed dive sites (author: Vivi Sanchez), released under
 ODbL 1.0. Same contract, same share-alike publication purpose.
+
+## dive-sites-curated.json
+First-party curated dive sites (author: Vivi Sanchez), released under ODbL 1.0.
+Sources: Seychelles positions placed from the owner-supplied Big Blue Divers
+2020 dive-site maps (approximate, each with an uncertainty radius); Maldives
+(North Male Atoll) points from OpenStreetMap.
+(c) OpenStreetMap contributors - https://www.openstreetmap.org/copyright
+(for the OSM rows).
+License: Open Database License (ODbL) 1.0.
+Published here to satisfy ODbL share-alike for the byte-identical copy bundled
+in the Buhlmann AI app.

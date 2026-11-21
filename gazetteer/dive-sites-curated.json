@@ -1,0 +1,1299 @@
+[
+  {
+    "site_key": "seychelles-mahe-lilot",
+    "name": "L’ilôt",
+    "name_variants": [
+      "L’ilôt",
+      "L'ilot",
+      "Ilot",
+      "L'Ilot Island",
+      "L’ilot",
+      "L'ilôt"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 25,
+    "lat": -4.57413,
+    "lng": 55.41875,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 1 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#1",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-north-point-rocks",
+    "name": "North Point Rocks",
+    "name_variants": [
+      "North Point Rocks",
+      "North Point Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 15,
+    "lat": -4.57762,
+    "lng": 55.42413,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 2 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#2",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-chuckles",
+    "name": "Chuckles",
+    "name_variants": [
+      "Chuckles"
+    ],
+    "type": "granite",
+    "depth_min_m": 9,
+    "depth_max_m": 18,
+    "lat": -4.58356,
+    "lng": 55.41596,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 3 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#3",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-sunset-rocks",
+    "name": "Sunset Rocks",
+    "name_variants": [
+      "Sunset Rocks",
+      "Sunset Rock"
+    ],
+    "type": "reef",
+    "depth_min_m": 0,
+    "depth_max_m": 14,
+    "lat": -4.59607,
+    "lng": 55.42198,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 4 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#4",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-gran-bazaar",
+    "name": "Gran Bazaar",
+    "name_variants": [
+      "Gran Bazaar"
+    ],
+    "type": "reef",
+    "depth_min_m": 6,
+    "depth_max_m": 15,
+    "lat": -4.60468,
+    "lng": 55.4209,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 5 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#5",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-lapay-koray",
+    "name": "Lapay Koray",
+    "name_variants": [
+      "Lapay Koray"
+    ],
+    "type": "reef",
+    "depth_min_m": 12,
+    "depth_max_m": 18,
+    "lat": -4.61062,
+    "lng": 55.42069,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 6 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#6",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-joker",
+    "name": "Joker",
+    "name_variants": [
+      "Joker"
+    ],
+    "type": "reef",
+    "depth_min_m": 9,
+    "depth_max_m": 18,
+    "lat": -4.60898,
+    "lng": 55.41639,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 7 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#7",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-coral-garden",
+    "name": "Coral Garden",
+    "name_variants": [
+      "Coral Garden"
+    ],
+    "type": "reef",
+    "depth_min_m": 8,
+    "depth_max_m": 15,
+    "lat": -4.61349,
+    "lng": 55.4123,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 8 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#8",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-aquarium",
+    "name": "Aquarium",
+    "name_variants": [
+      "Aquarium"
+    ],
+    "type": "reef",
+    "depth_min_m": 8,
+    "depth_max_m": 14,
+    "lat": -4.61513,
+    "lng": 55.41639,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 9 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#9",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-fishermans-cove-reef",
+    "name": "Fisherman’s Cove Reef",
+    "name_variants": [
+      "Fisherman’s Cove Reef",
+      "Fisherman's Cove",
+      "Fisherman's Cove Reef"
+    ],
+    "type": "reef",
+    "depth_min_m": 6,
+    "depth_max_m": 14,
+    "lat": -4.62128,
+    "lng": 55.41145,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 10 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#10",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-koray-lekol",
+    "name": "Koray Lekol",
+    "name_variants": [
+      "Koray Lekol"
+    ],
+    "type": "reef",
+    "depth_min_m": 6,
+    "depth_max_m": 18,
+    "lat": -4.62312,
+    "lng": 55.40693,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 11 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#11",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-twin-barges-wreck",
+    "name": "Twin Barges Wreck",
+    "name_variants": [
+      "Twin Barges Wreck",
+      "Twin Barges",
+      "Two Barges"
+    ],
+    "type": "wreck",
+    "depth_min_m": 12,
+    "depth_max_m": 23,
+    "lat": -4.62067,
+    "lng": 55.39854,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 12 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#12",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-corsair-reef",
+    "name": "Corsair Reef",
+    "name_variants": [
+      "Corsair Reef"
+    ],
+    "type": "reef",
+    "depth_min_m": 3,
+    "depth_max_m": 18,
+    "lat": -4.62538,
+    "lng": 55.40113,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 13 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#13",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-auberge-rocks-reef",
+    "name": "Auberge Rocks/ Reef",
+    "name_variants": [
+      "Auberge Rocks/ Reef",
+      "Auberge Rocks & Reef",
+      "Auberge Rocks",
+      "Auberge Reef",
+      "Auberge Rock"
+    ],
+    "type": "reef",
+    "depth_min_m": 6,
+    "depth_max_m": 16,
+    "lat": -4.62497,
+    "lng": 55.39489,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 14 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#14",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-dredger-wreck",
+    "name": "Dredger Wreck",
+    "name_variants": [
+      "Dredger Wreck",
+      "Dredger"
+    ],
+    "type": "wreck",
+    "depth_min_m": 18,
+    "depth_max_m": 26,
+    "lat": -4.62067,
+    "lng": 55.38951,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 15 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#15",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-danzille-rocks",
+    "name": "Danzille Rocks",
+    "name_variants": [
+      "Danzille Rocks",
+      "Danzille Reef",
+      "Danzille Rock"
+    ],
+    "type": "reef",
+    "depth_min_m": 0,
+    "depth_max_m": 10,
+    "lat": -4.626,
+    "lng": 55.38865,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 16 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#16",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-horse-shoe-rocks",
+    "name": "Horse Shoe Rocks",
+    "name_variants": [
+      "Horse Shoe Rocks",
+      "Horse Shoe Rock"
+    ],
+    "type": "reef",
+    "depth_min_m": 8,
+    "depth_max_m": 14,
+    "lat": -4.62477,
+    "lng": 55.38371,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 17 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#17",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-whale-rock",
+    "name": "Whale Rock",
+    "name_variants": [
+      "Whale Rock",
+      "Whale Rocks"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 14,
+    "lat": -4.62887,
+    "lng": 55.38328,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 18 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#18",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-aldebaran-wreck",
+    "name": "Aldebaran Wreck",
+    "name_variants": [
+      "Aldebaran Wreck",
+      "Aldebaran"
+    ],
+    "type": "wreck",
+    "depth_min_m": 28,
+    "depth_max_m": 40,
+    "lat": -4.63091,
+    "lng": 55.37059,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 19 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#19",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-willies-rocks",
+    "name": "Willie’s Rocks",
+    "name_variants": [
+      "Willie’s Rocks",
+      "Willie's Rocks",
+      "Willie’s Rock"
+    ],
+    "type": "reef",
+    "depth_min_m": 0,
+    "depth_max_m": 18,
+    "lat": -4.63543,
+    "lng": 55.37425,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 20 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#20",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-rays-point",
+    "name": "Ray’s Point",
+    "name_variants": [
+      "Ray’s Point",
+      "Rays Point",
+      "Ray's Point"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 15,
+    "lat": -4.63932,
+    "lng": 55.36952,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 21 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#21",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-bay-ternay-marine-park",
+    "name": "Bay Ternay Marine Park",
+    "name_variants": [
+      "Bay Ternay Marine Park",
+      "Bay Ternay",
+      "Baie Ternay Marine Park"
+    ],
+    "type": "reef",
+    "depth_min_m": 1,
+    "depth_max_m": 30,
+    "lat": -4.64568,
+    "lng": 55.36952,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 22 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#22",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-light-house",
+    "name": "Light House",
+    "name_variants": [
+      "Light House",
+      "Lighthouse"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 30,
+    "lat": -4.64895,
+    "lng": 55.36027,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 23 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#23",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-cap-matoopa",
+    "name": "Cap Matoopa",
+    "name_variants": [
+      "Cap Matoopa",
+      "Cap Ternay"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 24,
+    "lat": -4.65552,
+    "lng": 55.36415,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 1500,
+    "approx_basis": "PDF page-1 map label 24 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at the site",
+    "source_ref": "bigbluedivers-2020#24",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-conception-island-conception-arena-deep-dive",
+    "name": "Conception Arena Deep Dive",
+    "name_variants": [
+      "Conception Arena Deep Dive",
+      "Conception Arena"
+    ],
+    "type": "granite",
+    "depth_min_m": 15,
+    "depth_max_m": 30,
+    "lat": -4.6713,
+    "lng": 55.3549,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 2500,
+    "approx_basis": "PDF page-1 map label 26 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#26",
+    "region": "Seychelles: Conception Island"
+  },
+  {
+    "site_key": "seychelles-conception-island-conception-rocks",
+    "name": "Conception Rocks",
+    "name_variants": [
+      "Conception Rocks",
+      "Conception Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 25,
+    "lat": -4.67396,
+    "lng": 55.37317,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 2500,
+    "approx_basis": "PDF page-1 map label 27 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#27",
+    "region": "Seychelles: Conception Island"
+  },
+  {
+    "site_key": "seychelles-mahe-dan-milieu-deep-dive",
+    "name": "Dan Milieu Deep Dive",
+    "name_variants": [
+      "Dan Milieu Deep Dive",
+      "Dan Milieu"
+    ],
+    "type": "granite",
+    "depth_min_m": 14,
+    "depth_max_m": 30,
+    "lat": -4.6711,
+    "lng": 55.38242,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 2500,
+    "approx_basis": "PDF page-1 map label 28 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#28",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-lo-bordaz-deep-dive",
+    "name": "Lo Bordaz Deep Dive",
+    "name_variants": [
+      "Lo Bordaz Deep Dive",
+      "Lo Bordaz"
+    ],
+    "type": "granite",
+    "depth_min_m": 18,
+    "depth_max_m": 30,
+    "lat": -4.73301,
+    "lng": 55.33082,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 29 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#29",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-bekin-bank-deep-dive",
+    "name": "Bekin Bank Deep Dive",
+    "name_variants": [
+      "Bekin Bank Deep Dive",
+      "Bekin Bank"
+    ],
+    "type": "granite",
+    "depth_min_m": 18,
+    "depth_max_m": 30,
+    "lat": -4.72337,
+    "lng": 55.33404,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 30 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#30",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-site-en-ler-deep-dive",
+    "name": "Site en Ler Deep Dive",
+    "name_variants": [
+      "Site en Ler Deep Dive",
+      "Site Enler",
+      "Site en Ler"
+    ],
+    "type": "granite",
+    "depth_min_m": 18,
+    "depth_max_m": 28,
+    "lat": -4.72522,
+    "lng": 55.32372,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 31 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#31",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-therese-island-therese-rocks",
+    "name": "Therese Rocks",
+    "name_variants": [
+      "Therese Rocks",
+      "Therese Rock"
+    ],
+    "type": "reef",
+    "depth_min_m": 0,
+    "depth_max_m": 15,
+    "lat": -4.67499,
+    "lng": 55.38973,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 2500,
+    "approx_basis": "PDF page-1 map label 32 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#32",
+    "region": "Seychelles: Thérèse Island"
+  },
+  {
+    "site_key": "seychelles-mahe-escalier",
+    "name": "Escalier",
+    "name_variants": [
+      "Escalier"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 18,
+    "lat": -4.66659,
+    "lng": 55.38887,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 2500,
+    "approx_basis": "PDF page-1 map label 33 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#33",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-trois-dame",
+    "name": "Trois Dame",
+    "name_variants": [
+      "Trois Dame"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 18,
+    "lat": -4.68381,
+    "lng": 55.41596,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 2500,
+    "approx_basis": "PDF page-1 map label 34 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#34",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-ile-au-vache-ile-au-vaches",
+    "name": "Ile au Vaches",
+    "name_variants": [
+      "Ile au Vaches",
+      "Ile au Vache"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 24,
+    "lat": -4.69098,
+    "lng": 55.43337,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 2500,
+    "approx_basis": "PDF page-1 map label 35 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#35",
+    "region": "Seychelles: Ile au Vache"
+  },
+  {
+    "site_key": "seychelles-mahe-trois-banc",
+    "name": "Trois Banc",
+    "name_variants": [
+      "Trois Banc"
+    ],
+    "type": "granite",
+    "depth_min_m": 6,
+    "depth_max_m": 25,
+    "lat": -4.72624,
+    "lng": 55.40693,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 3000,
+    "approx_basis": "PDF page-1 map label 36 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#36",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-therese-island-therese-reef",
+    "name": "Therese Reef",
+    "name_variants": [
+      "Therese Reef"
+    ],
+    "type": "reef",
+    "depth_min_m": 0,
+    "depth_max_m": 14,
+    "lat": -4.68422,
+    "lng": 55.40499,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 2500,
+    "approx_basis": "PDF page-1 map label 37 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#37",
+    "region": "Seychelles: Thérèse Island"
+  },
+  {
+    "site_key": "seychelles-mahe-takamaka-rocks",
+    "name": "Takamaka Rocks",
+    "name_variants": [
+      "Takamaka Rocks",
+      "Takamaka",
+      "Takamaka Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 21,
+    "lat": -4.77995,
+    "lng": 55.48046,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 2500,
+    "approx_basis": "PDF page-1 map label 38 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#38",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-intendance-rocks",
+    "name": "Intendance Rocks",
+    "name_variants": [
+      "Intendance Rocks",
+      "Intendance",
+      "Intendance Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 23,
+    "lat": -4.7941,
+    "lng": 55.49529,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 2500,
+    "approx_basis": "PDF page-1 map label 39 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#39",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-lost-city-deep-dive",
+    "name": "Lost City Deep Dive",
+    "name_variants": [
+      "Lost City Deep Dive",
+      "Lost City"
+    ],
+    "type": "granite",
+    "depth_min_m": 15,
+    "depth_max_m": 25,
+    "lat": -4.71005,
+    "lng": 55.55442,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 40 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#40",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-turtle-rock",
+    "name": "Turtle Rock",
+    "name_variants": [
+      "Turtle Rock",
+      "Turtle Rocks"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 18,
+    "lat": -4.67991,
+    "lng": 55.53486,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 41 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#41",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-manis-bank-deep-dive",
+    "name": "Manis Bank Deep Dive",
+    "name_variants": [
+      "Manis Bank Deep Dive",
+      "Manis Bank"
+    ],
+    "type": "granite",
+    "depth_min_m": 16,
+    "depth_max_m": 24,
+    "lat": -4.68668,
+    "lng": 55.56065,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 42 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#42",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-marsoin-deep-dive",
+    "name": "Marsoin Deep Dive",
+    "name_variants": [
+      "Marsoin Deep Dive",
+      "Marsoin"
+    ],
+    "type": "granite",
+    "depth_min_m": 16,
+    "depth_max_m": 24,
+    "lat": -4.63932,
+    "lng": 55.55936,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 43 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#43",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-harrison-rocks",
+    "name": "Harrison Rocks",
+    "name_variants": [
+      "Harrison Rocks",
+      "Harrison Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 4,
+    "depth_max_m": 15,
+    "lat": -4.63173,
+    "lng": 55.52582,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 3000,
+    "approx_basis": "PDF page-1 map label 44 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#44",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-beacon-rocks",
+    "name": "Beacon Rocks",
+    "name_variants": [
+      "Beacon Rocks",
+      "Beacon Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 18,
+    "lat": -4.62292,
+    "lng": 55.52066,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 3000,
+    "approx_basis": "PDF page-1 map label 45 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#45",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-pinnacle-point",
+    "name": "Pinnacle Point",
+    "name_variants": [
+      "Pinnacle Point"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 15,
+    "lat": -4.62272,
+    "lng": 55.514,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 3000,
+    "approx_basis": "PDF page-1 map label 46 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#46",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-st-anne-island-st-anne-rocks",
+    "name": "St. Anne Rocks",
+    "name_variants": [
+      "St. Anne Rocks",
+      "St. Anne Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 12,
+    "lat": -4.61349,
+    "lng": 55.50905,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 2500,
+    "approx_basis": "PDF page-1 map label 47 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#47",
+    "region": "Seychelles: St. Anne Island"
+  },
+  {
+    "site_key": "seychelles-mahe-toukoula-deep-dive",
+    "name": "Toukoula Deep Dive",
+    "name_variants": [
+      "Toukoula Deep Dive",
+      "Toukoula"
+    ],
+    "type": "granite",
+    "depth_min_m": 16,
+    "depth_max_m": 24,
+    "lat": -4.55588,
+    "lng": 55.47186,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 49 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#49",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-koray-lewi-deep-dive",
+    "name": "Koray Lewi Deep Dive",
+    "name_variants": [
+      "Koray Lewi Deep Dive",
+      "Koray Lewi"
+    ],
+    "type": "granite",
+    "depth_min_m": 18,
+    "depth_max_m": 28,
+    "lat": -4.54974,
+    "lng": 55.4925,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 50 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#50",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-dragons-teeth",
+    "name": "Dragon’s Teeth",
+    "name_variants": [
+      "Dragon’s Teeth",
+      "Dragon's Teeth"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 23,
+    "lat": -4.54809,
+    "lng": 55.48669,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 51 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#51",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-brissare-rocks",
+    "name": "Brissare Rocks",
+    "name_variants": [
+      "Brissare Rocks",
+      "Brissare Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 20,
+    "lat": -4.54564,
+    "lng": 55.48046,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 52 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#52",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-feyte",
+    "name": "Feyte",
+    "name_variants": [
+      "Feyte"
+    ],
+    "type": "granite",
+    "depth_min_m": 12,
+    "depth_max_m": 22,
+    "lat": -4.52821,
+    "lng": 55.48971,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 53 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#53",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-zoli-mem",
+    "name": "Zoli Mem",
+    "name_variants": [
+      "Zoli Mem"
+    ],
+    "type": "granite",
+    "depth_min_m": 18,
+    "depth_max_m": 30,
+    "lat": -4.53047,
+    "lng": 55.49723,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 54 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#54",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-jackpot",
+    "name": "Jackpot",
+    "name_variants": [
+      "Jackpot"
+    ],
+    "type": "granite",
+    "depth_min_m": 14,
+    "depth_max_m": 24,
+    "lat": -4.52165,
+    "lng": 55.50024,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 55 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#55",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-ennerdale-wreck-deep-dive",
+    "name": "Ennerdale Wreck Deep Dive",
+    "name_variants": [
+      "Ennerdale Wreck Deep Dive",
+      "Ennerdale",
+      "Ennerdale Wreck"
+    ],
+    "type": "wreck",
+    "depth_min_m": 12,
+    "depth_max_m": 30,
+    "lat": -4.51201,
+    "lng": 55.49271,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 56 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#56",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-mahe-mamelles-rocks",
+    "name": "Mamelles Rocks",
+    "name_variants": [
+      "Mamelles Rocks",
+      "Mammelles Rocks",
+      "Mamelles",
+      "Mamelles Rock",
+      "Mammelles Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 5,
+    "depth_max_m": 20,
+    "lat": -4.49685,
+    "lng": 55.50088,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 4000,
+    "approx_basis": "PDF page-1 map label 57 georeferenced against Beau Vallon Bay/St Anne/airport landmarks (check error ~1-2 km); label sits at open-water/offshore position",
+    "source_ref": "bigbluedivers-2020#57",
+    "region": "Seychelles: Mahé"
+  },
+  {
+    "site_key": "seychelles-praslin-la-digue-trompeuse-rocks",
+    "name": "Trompeuse Rocks",
+    "name_variants": [
+      "Trompeuse Rocks",
+      "Trompeuse Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 22,
+    "lat": -4.40199,
+    "lng": 55.62034,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 10000,
+    "approx_basis": "PDF page-5 map (numbered 60 there) places it SW of Cousine, west of Praslin; schematic map, fitted to island positions",
+    "source_ref": "bigbluedivers-2020#61",
+    "region": "Seychelles: Praslin-La Digue"
+  },
+  {
+    "site_key": "seychelles-praslin-la-digue-booby-rock",
+    "name": "Booby Rock",
+    "name_variants": [
+      "Booby Rock",
+      "Booby Rocks"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 20,
+    "lat": -4.29584,
+    "lng": 55.65047,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 6000,
+    "approx_basis": "PDF page-5 map (numbered 61 there) places it NW of Praslin, west of Curieuse; schematic map, fitted to island positions",
+    "source_ref": "bigbluedivers-2020#62",
+    "region": "Seychelles: Praslin-La Digue"
+  },
+  {
+    "site_key": "seychelles-praslin-la-digue-ave-maria",
+    "name": "Ave Maria",
+    "name_variants": [
+      "Ave Maria"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 24,
+    "lat": -4.30372,
+    "lng": 55.80419,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 6000,
+    "approx_basis": "PDF page-5 map (numbered 65 there) places it between Praslin's east end and La Digue, north of La Digue; schematic map, fitted to island positions",
+    "source_ref": "bigbluedivers-2020#63",
+    "region": "Seychelles: Praslin-La Digue"
+  },
+  {
+    "site_key": "seychelles-praslin-la-digue-coco-rocks",
+    "name": "Coco Rocks",
+    "name_variants": [
+      "Coco Rocks",
+      "Coco Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 18,
+    "lat": -4.29584,
+    "lng": 55.87517,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 6000,
+    "approx_basis": "PDF page-5 map (numbered 66 there) places it north of Félicité/La Digue, by Grande Soeur; schematic map, fitted to island positions",
+    "source_ref": "bigbluedivers-2020#64",
+    "region": "Seychelles: Praslin-La Digue"
+  },
+  {
+    "site_key": "seychelles-praslin-la-digue-marianne-rocks",
+    "name": "Marianne Rocks",
+    "name_variants": [
+      "Marianne Rocks",
+      "Marianne",
+      "Marianne Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 12,
+    "depth_max_m": 20,
+    "lat": -4.33731,
+    "lng": 55.92522,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 6000,
+    "approx_basis": "PDF page-5 map (numbered 67 there, label 'Marianne') places it at Marianne Island; schematic map, fitted to island positions",
+    "source_ref": "bigbluedivers-2020#65",
+    "region": "Seychelles: Praslin-La Digue"
+  },
+  {
+    "site_key": "seychelles-praslin-la-digue-south-marianne",
+    "name": "South Marianne",
+    "name_variants": [
+      "South Marianne"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 22,
+    "lat": -4.33731,
+    "lng": 55.92522,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 6000,
+    "approx_basis": "No label on the PDF map; name implies south side of Marianne Island; placed at Marianne Island centre; schematic map, fitted to island positions",
+    "source_ref": "bigbluedivers-2020#66",
+    "region": "Seychelles: Praslin-La Digue"
+  },
+  {
+    "site_key": "seychelles-silhouette-fusilier-bank-deep-dive",
+    "name": "Fusilier Bank Deep Dive",
+    "name_variants": [
+      "Fusilier Bank Deep Dive",
+      "Fusilier Bank"
+    ],
+    "type": "reef",
+    "depth_min_m": 18,
+    "depth_max_m": 30,
+    "lat": -4.38673,
+    "lng": 55.34581,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 5000,
+    "approx_basis": "PDF page-5 map places it about 11 km east and 11 km north of Silhouette, open water",
+    "source_ref": "bigbluedivers-2020#68",
+    "region": "Seychelles: Silhouette"
+  },
+  {
+    "site_key": "seychelles-silhouette-roche-lare",
+    "name": "Roche Lare",
+    "name_variants": [
+      "Roche Lare",
+      "Roche Larai"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 16,
+    "lat": -4.45865,
+    "lng": 55.23938,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 3000,
+    "approx_basis": "PDF page-5 Silhouette panel: label 69 georeferenced from Silhouette Island centre at ~31 px/km (North Island 10 km N matches); on the island's north coast",
+    "source_ref": "bigbluedivers-2020#69",
+    "region": "Seychelles: Silhouette"
+  },
+  {
+    "site_key": "seychelles-silhouette-roche-mondon",
+    "name": "Roche Mondon",
+    "name_variants": [
+      "Roche Mondon"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 18,
+    "lat": -4.45865,
+    "lng": 55.22575,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 3000,
+    "approx_basis": "PDF page-5 Silhouette panel: label 70 georeferenced from Silhouette Island centre at ~31 px/km (North Island 10 km N matches); on the island's north-west coast",
+    "source_ref": "bigbluedivers-2020#70",
+    "region": "Seychelles: Silhouette"
+  },
+  {
+    "site_key": "seychelles-silhouette-point-dauban",
+    "name": "Point Dauban",
+    "name_variants": [
+      "Point Dauban"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 16,
+    "lat": -4.4746,
+    "lng": 55.21299,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 3000,
+    "approx_basis": "PDF page-5 Silhouette panel: label 71 georeferenced from Silhouette Island centre at ~31 px/km (North Island 10 km N matches); on the island's west coast",
+    "source_ref": "bigbluedivers-2020#71",
+    "region": "Seychelles: Silhouette"
+  },
+  {
+    "site_key": "seychelles-silhouette-etienne-rocks",
+    "name": "Etienne Rocks",
+    "name_variants": [
+      "Etienne Rocks",
+      "Etienne Rock"
+    ],
+    "type": "granite",
+    "depth_min_m": 5,
+    "depth_max_m": 20,
+    "lat": -4.48939,
+    "lng": 55.21415,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 3000,
+    "approx_basis": "PDF page-5 Silhouette panel: label 72 georeferenced from Silhouette Island centre at ~31 px/km (North Island 10 km N matches); on the island's west-south-west coast",
+    "source_ref": "bigbluedivers-2020#72",
+    "region": "Seychelles: Silhouette"
+  },
+  {
+    "site_key": "seychelles-silhouette-grand-barbe-deep-dive",
+    "name": "Grand Barbe Deep Dive",
+    "name_variants": [
+      "Grand Barbe Deep Dive",
+      "Grand Barbe"
+    ],
+    "type": "granite",
+    "depth_min_m": 12,
+    "depth_max_m": 23,
+    "lat": -4.50563,
+    "lng": 55.22633,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 3000,
+    "approx_basis": "PDF page-5 Silhouette panel: label 73 georeferenced from Silhouette Island centre at ~31 px/km (North Island 10 km N matches); on the island's south-west coast",
+    "source_ref": "bigbluedivers-2020#73",
+    "region": "Seychelles: Silhouette"
+  },
+  {
+    "site_key": "seychelles-silhouette-lascars",
+    "name": "Lascars",
+    "name_variants": [
+      "Lascars"
+    ],
+    "type": "granite",
+    "depth_min_m": 0,
+    "depth_max_m": 16,
+    "lat": -4.50853,
+    "lng": 55.25446,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 3000,
+    "approx_basis": "PDF page-5 Silhouette panel: label 74 georeferenced from Silhouette Island centre at ~31 px/km (North Island 10 km N matches); on the island's south coast",
+    "source_ref": "bigbluedivers-2020#74",
+    "region": "Seychelles: Silhouette"
+  },
+  {
+    "site_key": "seychelles-silhouette-ramasse-tout-deep-dive",
+    "name": "Ramasse Tout Deep Dive",
+    "name_variants": [
+      "Ramasse Tout Deep Dive",
+      "Ramasse Tout"
+    ],
+    "type": "reef",
+    "depth_min_m": 16,
+    "depth_max_m": 30,
+    "lat": -4.48823,
+    "lng": 55.27157,
+    "coord_source": "approximate-map",
+    "uncertainty_m": 3000,
+    "approx_basis": "PDF page-5 Silhouette panel: label 75 georeferenced from Silhouette Island centre at ~31 px/km (North Island 10 km N matches); on the island's east coast",
+    "source_ref": "bigbluedivers-2020#75",
+    "region": "Seychelles: Silhouette"
+  },
+  {
+    "site_key": "maldives-northmale-banana-reef",
+    "name": "Banana Reef",
+    "name_variants": [
+      "Banana Reef"
+    ],
+    "type": "reef",
+    "depth_min_m": null,
+    "depth_max_m": null,
+    "lat": 4.2341876,
+    "lng": 73.5339507,
+    "coord_source": "osm",
+    "uncertainty_m": null,
+    "approx_basis": null,
+    "source_ref": "osm:way/51828966",
+    "region": "Maldives: North Malé Atoll"
+  },
+  {
+    "site_key": "maldives-northmale-fish-tank",
+    "name": "Fish Tank",
+    "name_variants": [
+      "Fish Tank",
+      "Fish tank dive"
+    ],
+    "type": "unknown",
+    "depth_min_m": null,
+    "depth_max_m": null,
+    "lat": 4.2562245,
+    "lng": 73.5407005,
+    "coord_source": "osm",
+    "uncertainty_m": null,
+    "approx_basis": null,
+    "source_ref": "osm:node/10770488206",
+    "region": "Maldives: North Malé Atoll"
+  },
+  {
+    "site_key": "maldives-northmale-furana",
+    "name": "Furana",
+    "name_variants": [
+      "Furana",
+      "Furana reef dive",
+      "Furana North",
+      "Furana Reef"
+    ],
+    "type": "reef",
+    "depth_min_m": null,
+    "depth_max_m": null,
+    "lat": 4.2499719,
+    "lng": 73.5506316,
+    "coord_source": "osm",
+    "uncertainty_m": null,
+    "approx_basis": null,
+    "source_ref": "osm:node/10770488305",
+    "region": "Maldives: North Malé Atoll"
+  }
+]
